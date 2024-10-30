@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arquivoCSV", "arquivoCSV\arquivoCSV.csproj", "{69B6B81D-D869-4337-B708-FBCF798C11DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B6B81D-D869-4337-B708-FBCF798C11DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B6B81D-D869-4337-B708-FBCF798C11DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B6B81D-D869-4337-B708-FBCF798C11DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B6B81D-D869-4337-B708-FBCF798C11DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F83FFB-F13E-4F4D-B4F0-DE02644A1BC6}
+	EndGlobalSection
+EndGlobal
